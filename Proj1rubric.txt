@@ -1,0 +1,139 @@
+Project 1 Rubric
+Criteria	Ratings	Pts
+Preliminaries - Files Correctly Submitted
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Preliminaries - Program assembles, links
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Documentation - Identification Block - Header
+2 pts
+Full Marks
+0 pts
+Missing Info
+Header block is not present, or is missing required information.
+2 / 2 pts
+Documentation - Identification Block - Program Description
+2 pts
+Full Marks
+1 pts
+Lacking detail
+Description is present but is lacking in detail with regard to functionality.
+0 pts
+No Marks
+2 / 2 pts
+Verification - Program Executes
+5 pts
+Full Marks
+2 pts
+Failed attempt
+Program is an attempt at the correct assignment but simply does not run.
+0 pts
+Not An Attempt
+Program executes but is either the incorrect program or some quickly mashed together nonsense, submitted only to 'get a few points'
+5 / 5 pts
+Completeness - Displays programmer name
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Completeness - Displays Introduction
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Completeness - Prompts user to input data
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Completeness - Gets data from user
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Completeness - Displays Results
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Correctness - Calculations are correct
+5 pts
+Full Marks
+0 pts
+No Marks
+5 / 5 pts
+Correctness - Original User Data Unchanged
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Requirements - Modularized Code Blocks
+5 pts
+Blocks with Headers
+3 pts
+Blocks without Headers
+Program is separated into logical blocks but those blocks are poorly commented
+3 pts
+Headers without Blocks
+Program is not visibly separated into logical blocks with whitespace, but limited headers do indicate some organizational effort.
+0 pts
+No Marks
+5 / 5 pts
+Requirements - Results stored in named variables
+5 pts
+Full Marks
+0 pts
+No Marks
+5 / 5 pts
+Coding Style - In-line Comments
+5 pts
+Full Marks
+0 pts
+No Marks
+Comments
+Instead of placing all comments as in-line comments on the first instruction of each block, place the comments above the block to show it represents that whole block of code.
+4 / 5 pts
+Coding Style - Appropriately Named Identifiers
+3 pts
+Full Marks
+1 pts
+Partial
+Some identifiers are named well, with others having no relevance to their functionality.
+0 pts
+No Marks
+3 / 3 pts
+Coding Style - Readability
+5 pts
+Full Marks
+3 pts
+Marginally Readable
+Program is marginally readable but lacks proper alignment and white space.
+0 pts
+No Marks
+5 / 5 pts
+Extra Credit
+0 pts
+Full Marks
+0 pts
+No Marks
+0 / 0 pts
+Late Penalty
+0 pts
+Full Marks
+0 pts
+No Marks
+0 / 0 pts
+Total Points: 49
