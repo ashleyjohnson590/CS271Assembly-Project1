@@ -1,0 +1,64 @@
+Assignment 1 rubric (1)
+Criteria	Ratings	Pts
+Successfully uploaded their project from their GitHub repository to Gradescope
+40 to >39 pts
+Full Marks
+Meets criterion
+39 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+40 / 40 pts
+Correctly read the user's input
+10 to >9 pts
+Full Marks
+Meets criterion
+9 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+10 / 10 pts
+Printed the correct output based on the user's input
+10 to >9 pts
+Full Marks
+Meets criterion
+9 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+10 / 10 pts
+DEDUCTION: Did not include name and current date in comment header (-3 Points)
+0 pts
+Full Marks
+Meets criterion
+0 pts
+Point Deduction
+0 / 0 pts
+DEDUCTION: Did not name the file correctly (-3 Points)
+0 pts
+Full Marks
+Meets criterion
+0 pts
+Point Deduction
+0 / 0 pts
+DEDUCTION: Used single letter variable names (-2 Points)
+0 pts
+Full Marks
+Meets criterion
+0 pts
+Point Deduction
+0 / 0 pts
+DEDUCTION: Did not follow name case conventions (-1 Point)
+0 pts
+Full Marks
+Meets criterion
+0 pts
+Point Deduction
+0 / 0 pts
+Total Points: 60
